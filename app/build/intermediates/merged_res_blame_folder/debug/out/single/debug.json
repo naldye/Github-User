@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_activity_fave.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_fave.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_search.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_favered.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_favered.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/menu_actionbar_detail.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/menu/actionbar_detail.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_favehollow.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_favehollow.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_fragment_follow.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/fragment_follow.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_setting.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_goldstar.png.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/goldstar.png"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable_ic_favefull.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable/ic_favefull.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_activity_detail.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_activity_dark_mode.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_dark_mode.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/menu_actionbar_main.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/menu/actionbar_main.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/layout_card_user.xml.flat",
+        "source": "com.example.githubuser.app-main-7:/layout/card_user.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.githubuser.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

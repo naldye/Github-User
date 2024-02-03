@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/activity_fave.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_fave.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/activity_detail.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/activity_dark_mode.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/activity_dark_mode.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/fragment_follow.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/fragment_follow.xml"
+    },
+    {
+        "merged": "com.example.githubuser.app-mergeDebugResources-4:/layout/card_user.xml",
+        "source": "com.example.githubuser.app-main-7:/layout/card_user.xml"
+    }
+]

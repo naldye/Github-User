@@ -1,0 +1,7 @@
+com.example.githubuser.test.app-androidTest-0 C:\Productivity\Codes\Android\githubUser\app\build\generated\res\resValues\androidTest\debug
+com.example.githubuser.test.app-androidTest-1 C:\Productivity\Codes\Android\githubUser\app\build\generated\res\rs\androidTest\debug
+com.example.githubuser.test.app-mergeDebugAndroidTestResources-2 C:\Productivity\Codes\Android\githubUser\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.githubuser.test.app-mergeDebugAndroidTestResources-3 C:\Productivity\Codes\Android\githubUser\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.githubuser.test.app-merged_res-4 C:\Productivity\Codes\Android\githubUser\app\build\intermediates\merged_res\debugAndroidTest
+com.example.githubuser.test.app-core-1.5.0-5 C:\Users\LEGION\.gradle\caches\transforms-3\9625a4369847c3660983c501a7b3626b\transformed\core-1.5.0\res
+com.example.githubuser.test.app-annotation-experimental-1.3.0-6 C:\Users\LEGION\.gradle\caches\transforms-3\9fae957ef0e1266a83e5188cb210102e\transformed\annotation-experimental-1.3.0\res
